@@ -4,7 +4,7 @@ C++ Moscow №2: «Корутины и Qt. Библиотека QCoro»‎
 
 Докладчик: Илья Быконя
 
-Видео: [YouTube]()
+Видео: [YouTube](https://youtu.be/EKpifgwz4O4)
 
 Презентация: [PDF](slides.pdf)
 
